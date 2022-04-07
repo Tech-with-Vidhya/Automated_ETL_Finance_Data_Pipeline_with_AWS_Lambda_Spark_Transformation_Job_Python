@@ -20,3 +20,7 @@ Tools & Technologies:
 11. AWS Athena
 12. AWS Lambda (with Trigger)
 13. Spark 
+
+Project Architecture:
+
+![](architecture/project_architecture.jpg)
